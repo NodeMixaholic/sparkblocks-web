@@ -1,2 +1,2 @@
 # sparkblocks-web
-SparkBlocks asset server and web pages
+SparkBlocks asset scripts and web pages
